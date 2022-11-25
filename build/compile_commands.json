@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build",
+  "command": "/usr/bin/clang++  -I/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/mylib.dir/src/duration.cpp.o -c /Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/src/duration.cpp",
+  "file": "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/src/duration.cpp"
+},
+{
+  "directory": "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build",
+  "command": "/usr/bin/clang++  -I/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -g -O0 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/src/main.cpp",
+  "file": "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/src/main.cpp"
+},
+{
+  "directory": "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build/tests",
+  "command": "/usr/bin/clang++  -I/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/include -I/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/tests/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c /Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/tests/src/tests.cpp",
+  "file": "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/tests/src/tests.cpp"
+}
+]

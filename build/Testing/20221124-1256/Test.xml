@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20221124-1256-Experimental"
+	Name="Christians-MacBook-Pro-2.local"
+	Generator="ctest-3.24.2"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="Christians-MacBook-Pro-2.local"
+	OSRelease="13.0.1"
+	OSVersion="22A400"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2300"
+	>
+	<Testing>
+		<StartDateTime>Nov 24 21:20 CET</StartDateTime>
+		<StartTestTime>1669321245</StartTestTime>
+		<TestList>
+			<Test>./tests/usage_test</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>usage_test</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/usage_test</FullName>
+			<FullCommandLine>/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build/tests/tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Subprocess aborted</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>0</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.294657</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build/tests/tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzNU8tOwzAQvPsr5ghSk6il9BAJUGgBVeKAgH6ASTaNRWJb3i1F4vHtOKkqwT0HVrJkz65HY+9swUxBjLOotWmpynEiuISYjk4nqHe2HJJMUrQ6dBGKVah2Qfd4Wno/QWssYb5IlfoeN5QQC8MwNJZaygZvs3R6ls7ROBZo71tTHoSox53F3kiD5Aq1C3C+x1mpZNwYNI1Omm1iGzgrm2BYjLbeBe4cU7YifhXnMx/cNuiuo2DsdmPNXyDTzGZrO7Iynf06JNNZsjxyPhw5h1/NOJSHXd/EfKHScUP9gzfluC3W9zerXAEfG/tq3d6C3n2gyBZdrWuhAGkIgaI6oWrw8peqdgRx0XW1Ft2CQoiOKp2tTG+qnu5pfVdcPz4jQfESb+JEv1gXulgcKTtjB1eeohetW6Uuxo3BhCg1E+eY4jOuw/gqfZznmDiPiTl8D1W/a9QP+K897w==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 24 21:20 CET</EndDateTime>
+		<EndTestTime>1669321245</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

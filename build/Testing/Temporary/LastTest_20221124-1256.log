@@ -1,0 +1,39 @@
+Start testing: Nov 24 21:20 CET
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build/tests/tests"
+Directory: /Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/build/tests
+"usage_test" start time: Nov 24 21:20 CET
+Output:
+----------------------------------------------------------
+Assertion failed: (t > time), function setAlarm, file duration.cpp, line 46.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tests is a Catch v2.13.4 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+test
+-------------------------------------------------------------------------------
+/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/tests/src/tests.cpp:6
+...............................................................................
+
+/Users/christianporsmose/Desktop/programmeringUni/programmering/assignment12/assignment-12-ChristianPorsmose/tests/src/tests.cpp:6: FAILED:
+  {Unknown expression after the reported line}
+due to a fatal error condition:
+  SIGABRT - Abort (abnormal termination) signal
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 5 | 4 passed | 1 failed
+
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Failed.
+"usage_test" end time: Nov 24 21:20 CET
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 24 21:20 CET
