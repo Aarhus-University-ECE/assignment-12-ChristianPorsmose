@@ -34,7 +34,7 @@
     bool Duration::checkAndUpdateAlarm() {
          if(time > alarm) {
             alarm = 0;
-            alarmHasBeenSet = false; //?
+            alarmHasBeenSet = false; //
             return true;
         }
         else {
